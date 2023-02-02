@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="600"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
