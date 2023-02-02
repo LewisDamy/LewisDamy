@@ -7,7 +7,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 <!-- - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles. -->
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-damy-05a811196/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LewisDamy-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-damy-05a811196/)
 
 ---
 
@@ -33,6 +33,6 @@ I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisDamy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisDamy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisDamy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
