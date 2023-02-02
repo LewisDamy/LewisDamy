@@ -1,8 +1,8 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="1000" height="600"  /></p>
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="30">.
+I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="100">.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
@@ -30,6 +30,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins"  alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LewisDamy&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
