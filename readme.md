@@ -2,7 +2,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Back End Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="100">.
+I am a FullStack Developer <img src="https://media.giphy.com/media/7srpeY4TZMrO8/giphy.gif" width="100">.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
